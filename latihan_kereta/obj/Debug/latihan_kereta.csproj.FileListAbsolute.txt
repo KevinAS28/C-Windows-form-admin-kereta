@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\latihan_kereta\latihan_kereta\bin\Debug\latihan_kereta.exe.config
+C:\Users\Kevin\source\repos\latihan_kereta\latihan_kereta\bin\Debug\latihan_kereta.exe
+C:\Users\Kevin\source\repos\latihan_kereta\latihan_kereta\bin\Debug\latihan_kereta.pdb
+C:\Users\Kevin\source\repos\latihan_kereta\latihan_kereta\obj\Debug\latihan_kereta.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\latihan_kereta\latihan_kereta\obj\Debug\latihan_kereta.Form1.resources
+C:\Users\Kevin\source\repos\latihan_kereta\latihan_kereta\obj\Debug\latihan_kereta.Properties.Resources.resources
+C:\Users\Kevin\source\repos\latihan_kereta\latihan_kereta\obj\Debug\latihan_kereta.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\latihan_kereta\latihan_kereta\obj\Debug\latihan_kereta.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\latihan_kereta\latihan_kereta\obj\Debug\latihan_kereta.exe
+C:\Users\Kevin\source\repos\latihan_kereta\latihan_kereta\obj\Debug\latihan_kereta.pdb
